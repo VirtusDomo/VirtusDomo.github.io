@@ -1,17 +1,20 @@
-/*Default Font and Font Size for the Webpage*/
+/*Default Font, Background color and Font Size for the Webpage*/
 html {
     font-size: 12px;
     font-family: 'Oswald', sans-serif;
+    background-color: black;
 }
-/*Header Size and Page Alignment */
+/*Header Size, Color and Page Alignment */
 h1 {
     font-size: 60px;
     text-align: center;
+    color: white;
 }
-
+/*Paragraph and List Size, Color, Line Height and Letter Spacing*/
 p, li {
     font-size: 16px;
     line-height: 2;
     letter-spacing: 1px;
+    color: white; 
 }
 

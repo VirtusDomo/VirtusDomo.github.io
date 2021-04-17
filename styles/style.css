@@ -1,4 +1,17 @@
-p {
-    color: red;
-
+/*Default Font and Font Size for the Webpage*/
+html {
+    font-size: 12px;
+    font-family: 'Oswald', sans-serif;
 }
+/*Header Size and Page Alignment */
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
